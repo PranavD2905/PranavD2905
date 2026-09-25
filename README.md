@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working on persnal project :VisionDS<br>I'm currently working in SeedlingLabs as SDE Intern<br>
+I'm a developer who enjoys turning ideas into real products, from **cross-platform mobile apps** to **scalable backends** and **computer vision** projects.<br><br>
+🏢 Currently working as an **SDE Intern at Seedling Labs**, building and shipping features across mobile, backend and cloud.<br>
+🔭 Building my personal project **VisionDS**, where I'm exploring computer vision with PyTorch and OpenCV.<br>
+📱 I build mobile apps with **Flutter, React Native and Expo**, and backends with **FastAPI, Django and Node.js**.<br>
+🌱 Currently learning **system design** and **taking ML models to production**.<br>
+🤝 Open to **collaborations, internships and open-source work**.<br>
+⚡ I like clean code, fast apps and shipping things that people actually use.<br>
 
 
 ## 🌐 Socials:
@@ -12,4 +18,3 @@ I'm currently working on persnal project :VisionDS<br>I'm currently working in S
 ![](https://streak-stats.demolab.com/?user=PranavD2905&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PranavD2905&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
